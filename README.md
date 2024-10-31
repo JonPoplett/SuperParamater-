@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This solution was developed collaboratively by:
 
-- [Your Name]
+- Jon Poplett
 - ChatGPT
 - Claude
 
