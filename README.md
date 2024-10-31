@@ -88,6 +88,6 @@ This solution was developed collaboratively by:
 
 ## Contact
 
-For questions or feedback, please open an issue in this repository or contact JonPoplet@JGPTech.net. 
+For questions or feedback, please open an issue in this repository or contact JonPoplett@JGPTech.net. 
 
 ```
