@@ -1,3 +1,5 @@
+Disclaimer - This project is a three-way collaborative venture undertaken by ChatGPT, Claude AI, and myself. Each party contributed equally to the solution, working together efficiently to create this implementation.
+
 # The Super Parameter Challenge Solution
 
 This repository contains a solution to **The Super Parameter** challenge from the QHack 2023 Flashback Badge Challenge event. The challenge involves constructing a quantum model that, with only one parameter, can generate all computational basis states of a 3-qubit system.
